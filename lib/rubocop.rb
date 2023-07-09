@@ -704,6 +704,7 @@ require_relative 'rubocop/cop/style/yaml_file_read'
 require_relative 'rubocop/cop/style/yoda_condition'
 require_relative 'rubocop/cop/style/yoda_expression'
 require_relative 'rubocop/cop/style/zero_length_predicate'
+require_relative 'rubocop/cop/style/illegal_variable'
 
 require_relative 'rubocop/cop/security/compound_hash'
 require_relative 'rubocop/cop/security/eval'
